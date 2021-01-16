@@ -1,0 +1,233 @@
+########################## hero area ##########################
+hero:
+  title : "I'm Juby Varughese"
+
+  # animated text loop
+  occupations:
+    - "Front-End Developer"
+    - "Quality Assurance Engineer"
+    - "Full Stack Developer"
+    - "WordPress Designer"
+
+  # slider background image loop
+  slider_image:
+    - "images/slider/slider-1.jpg"
+    - "images/slider/slider-2.jpg"
+    - "images/slider/slider-3.jpg"
+
+  # button
+  button:
+    enable : true
+    label : "HIRE ME"
+    link : "#contact"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : true
+  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  first_name : "Juby"
+  last_name : "Varughese"
+  
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/juby.png"
+  title : "KNOW MORE <br> ABOUT ME"
+  content : "I'm Juby, Professional Web Developer. I love to code and coding is my passion. In-addition to that i'm cognizant about the tech trends and will make every effort to be at the cutting edge and therefore i always make sure to deliver the work to clients with durability and scalability."
+  # button
+  button:
+    enable : true
+    label : "DOWNLOAD MY CV"
+    link : "Resume.pdf" # you can put your cv in static folder and give the path here.
+
+###########################3 Experience ##############################
+experience:
+  enable : true
+  title : "EXPERIENCE"
+  experience_list:
+    # experience item loop
+    - name : "Junior Developer"
+      company : "Mika Software Corporation"
+      duration : "2020-2021"
+      content : "I work with HTML, CSS, and JavaScript and create scalable web platform leveraging React framework. Along with that i did Quality Assurance to deliver a bug-free product."
+      
+    # experience item loop
+    - name : "WordPress Administrator"
+      company : "BCI Innovation Labs"
+      duration : "2020"
+      content : "I did WordPress Development and custom integrations with variety of plugins like MyCurator, MailChimp, Google Analytics, etc. I have been administering the Websites and initializing backups. I've implemented SSH on the server for securely transferring files."
+     
+
+############################### Skill #################################
+skill:
+  enable : true
+  title : "SKILL"
+  skill_list:
+    # skill item loop
+    - name : "Front-End Development"
+      percentage : "98%"
+      
+    # skill item loop
+    - name : "Full Stack Development"
+      percentage : "80%"
+          
+    # skill item loop
+    - name : "Wordpress"
+      percentage : "70%"
+    
+    # skill item loop
+    - name : "Quality Assurance"
+      percentage : "85%"
+
+
+################################### Service ##############################3
+service:
+  enable : true
+  title : "SERVICES"
+  service_list:
+    # service item loop
+    - name : "Front-End Development"
+      image : "images/icons/code-solid.svg"
+      
+    # service item loop
+    - name : "Backend Development"
+      image : "images/icons/graphic-design.png"
+      
+    # service item loop
+    - name : "Static Site Development"
+      image : "images/icons/dbms.png"
+      
+    # service item loop
+    - name : "Software Development"
+      image : "images/icons/software-development.png"
+      
+    # service item loop
+    - name : "Digital Marketing"
+      image : "images/icons/marketing.png"
+      
+    # service item loop
+    - name : "WordPress Development"
+      image : "images/icons/mobile-app.png"
+
+
+############################## call to action #########################
+call_to_action:
+  enable : true
+  bg_image : "images/backgrounds/need-service.jpg"
+  title : "NEED A SERVICE?"
+  button:
+    enable : true
+    label : "Let's be Connected!"
+    link : "#contact"
+
+
+############################# portfolio ################################
+portfolio:
+  enable : true
+  title : "PORTFOLIO"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Pillshare"
+      image : "images/pillshare.png"
+      date : "Jan 2021"
+      category : "Front-End Development"
+    
+    # portfolio item loop
+    - name : "BioDB"
+      image : "images/biodb.png"
+      date : "Apr 2020"
+      category : "Full Stack Development"
+      
+    # portfolio item loop
+    - name : "Enlazaa"
+      image : "images/enlazaa.png"
+      date : "Dec 2020"
+      category : "Static Site Development"
+      
+    # portfolio item loop
+    - name : "BCI Labs"
+      image : "images/bci-labs.png"
+      date : "Aug 2020"
+      category : "WordPress Development"
+      
+    # portfolio item loop
+    - name : "CTA"
+      image : "images/cta.png"
+      date : "July 2020"
+      category : "WordPress Development"
+      
+    # portfolio item loop
+    - name : "IS"
+      image : "images/is.png"
+      date : "July 2020"
+      category : "WordPress Development"
+
+    # portfolio item loop
+    - name : "BCI Institute"
+      image : "images/bci-institute.png"
+      date : "Aug 2020"
+      category : "WordPress Development"
+      
+      
+################################# Testimonial #########################33
+testimonial:
+  enable : true
+  title : "TESTIMONIALS"
+  testimonial_slider:
+                
+    # slider item loop
+    - name : "Bartlomiej Mika"
+      image : "images/bart.jpg"
+      designation : "Technical Consultant, Mika Software Corporation"
+      content : "I have hired Juby as a contract full-stack developer for number of my projects and the results have been spectacular! The first line of work involved writing a prototype frontend web-app using React.js. He accomplished it in a short amount of time with a high quality fully responsive build. When our team presented Juby's work to the client, the client became very pleased. He demonstrated understanding for HTML, CSS, React.js and Bootstrap library. The second major line of work was in quality assurance. Juby demonstrated professionalism and dedication to finding bugs, reporting them and assisting the development team with solutions; furthermore, during production launch days, Juby spend all nighters alongside the development team assisting in any way that he could. Quite simply Juby was there when you needed him the most and has demonstrated he can work as a team player. The third major line of work was his promotion to junior developer. After his success with his quality assurance role, he was given a client and a WordPress site to develop from scratch. Juby participated in the user story workshop sessions, the design phase, the communication with the client (project management) and worked on the implementation of the site. His work is top notch and he was excellent to work with. I would highly recommend Juby for any quality assurance or development role in your organization!"
+                
+    # slider item loop
+    - name : "Dr Mark Weyers"
+      image : "images/mark.jpg"
+      designation : "CEO, BCI Innovation Labs"
+      content : "Juby worked for me as a software developer from May 2020 - September 2020. During this time, he wrote code and completed both frontend and backend web development work. His responsibilities included requirements gathering, analysis and design of Web applications using a variety of technologies such as WordPress, CSS, HTML, Python, Go, Django Rest Framework, JavaScript, Secure shell (SSH), SQL, cloud service providers such as Digital Ocean Bluehost. Frontend frameworks like React, used with TypeScript which ensures scalability. Static site generator using Hugo, deployed to Surge. He has continued to impress me with the quality of his work, his ability to take the initiative, without being prompted, and to provide suggestions for improvements and ongoing enhancements. When presented with a problem, he is able to assess the problem, research different options, assess the pros and cons of these various options, test out multiple implementations, and provide a solution, quickly and efficiently. He is an innovator and entrepreneur with a great future ahead of him. He has proven himself to be a dependable employee and a hard worker with solid problem solving and technical skills. Juby not only met deadlines but also explained his approach and solutions clearly in a way that non-experts can understand. Juby takes his work very seriously and is an incredible learner, continually learning new languages, tools and methodologies to stay abreast of the newest developments in his area of expertise. However, while Juby is a fast learner, he is also very careful and cautious about his work. He repeatedly runs checks before making his work public to ensure there are not any issues at implementation. I hope you will consider Juby for a job as a software developer at Infotech. I am confident that he can meet any challenge you place before him, and you will be pleased with his work should you choose to hire him. Please feel free to contact me if you have questions or want to discuss Juby's qualifications and experience further. I can be reached at (519)-694-5715 or via email at dr.m.weyers@bcinnovationlabs.com."
+    
+    # slider item loop
+    - name : "Lina Manuel-Majzoub"
+      image : "images/lina.jpg"
+      designation : "Marketing Professor, Fanshawe College"
+      content : "I’ve had the pleasure of teaching Juby for the past few months, during our Digital Marketing Sessions with the London Language Institute. Above all, I was impressed with Juby's ability grasp and understand new concepts explained to him.  He would take on tasks assigned with motivation and complete all his work on time.  He is a dedicated, hardworking and talented individual.  He is a team player and would be an asset to any company."
+    
+    # slider item loop
+    - name : "Dr James MacAskill"
+      image : "images/james.jpg"
+      designation : "Chief Transition and Operations Officer, IIAD Global Limited"
+      content : "Juby joined our Diploma-Software Development and Technology Entrepreneurship program in Canada and immediately demonstrated his entrepreneurial drive through the way he worked on his project assignments for each diploma module. Over his time with us we were able to introduce him to like minded entrepreneurs as part of his studies. Our capstone project approach gave him the ideal jumping off point to join a local software development company. Juby has since been involved in a number of projects and his application of full stack software skills has produced some astonishing client feedback for these successful projects. I am also pleased to say that Juby has a real self starter attitude and entrepreneurial spirit. I have no hesitation on recommending him to the community."
+
+
+######################### funfacts #############################3
+funfacts:
+  enable : true
+  funfacts_list:
+    # funfacts item loop
+    - name : "HANDS TO WORK"
+      image : "images/icons/works.png"
+      count : "100"
+      
+    # funfacts item loop
+    - name : "HAPPY CLIENT"
+      image : "images/icons/happy.png"
+      count : "200"
+      
+    # funfacts item loop
+    - name : "FINISHED PROJECT"
+      image : "images/icons/project.png"
+      count : "250"
+      
+    # funfacts item loop
+    - name : "CUPS OF COFFEE"
+      image : "images/icons/coffee.png"
+      count : "150"
+
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "Let's be Connected!"
