@@ -34,8 +34,8 @@ fullscreen_nav:
 about:
   enable : true
   image : "images/juby.png"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "I'm Juby, Professional Web Developer. I love to code and coding is my passion. In-addition to that i'm cognizant about the tech trends and will make every effort to be at the cutting edge and therefore i always make sure to deliver the work to clients with durability and scalability."
+  title : "ABOUT ME"
+  content : "My name is Juby Varughese and I am a Professional Web Developer. I love to code and coding is my passion.  I am aware of the current tech trends and will make every effort to be at the cutting edge of technology. My clients will receive quality services."
   # button
   button:
     enable : true
@@ -132,7 +132,7 @@ portfolio:
     - name : "Pillshare"
       image : "images/pillshare.png"
       date : "Jan 2021"
-      category : "Front-End Development"
+      category : "front-end-development"
     
     # portfolio item loop
     - name : "BioDB"
@@ -187,7 +187,7 @@ testimonial:
     - name : "Dr Mark Weyers"
       image : "images/mark.jpg"
       designation : "CEO, BCI Innovation Labs"
-      content : "Juby worked for me as a software developer from May 2020 - September 2020. During this time, he wrote code and completed both frontend and backend web development work. His responsibilities included requirements gathering, analysis and design of Web applications using a variety of technologies such as WordPress, CSS, HTML, Python, Go, Django Rest Framework, JavaScript, Secure shell (SSH), SQL, cloud service providers such as Digital Ocean Bluehost. Frontend frameworks like React, used with TypeScript which ensures scalability. Static site generator using Hugo, deployed to Surge. He has continued to impress me with the quality of his work, his ability to take the initiative, without being prompted, and to provide suggestions for improvements and ongoing enhancements. When presented with a problem, he is able to assess the problem, research different options, assess the pros and cons of these various options, test out multiple implementations, and provide a solution, quickly and efficiently. He is an innovator and entrepreneur with a great future ahead of him. He has proven himself to be a dependable employee and a hard worker with solid problem solving and technical skills. Juby not only met deadlines but also explained his approach and solutions clearly in a way that non-experts can understand. Juby takes his work very seriously and is an incredible learner, continually learning new languages, tools and methodologies to stay abreast of the newest developments in his area of expertise. However, while Juby is a fast learner, he is also very careful and cautious about his work. He repeatedly runs checks before making his work public to ensure there are not any issues at implementation. I hope you will consider Juby for a job as a software developer at Infotech. I am confident that he can meet any challenge you place before him, and you will be pleased with his work should you choose to hire him. Please feel free to contact me if you have questions or want to discuss Juby's qualifications and experience further. I can be reached at (519)-694-5715 or via email at dr.m.weyers@bcinnovationlabs.com."
+      content : "Juby worked for me as a software developer from May 2020 - September 2020. During this time, he wrote code and completed both frontend and backend web development work. His responsibilities included requirements gathering, analysis and design of Web applications using a variety of technologies such as WordPress, CSS, HTML, Python, Go, Django Rest Framework, JavaScript, Secure shell (SSH), SQL, cloud service providers such as Digital Ocean Bluehost. Frontend frameworks like React, used with TypeScript which ensures scalability. Static site generator using Hugo, deployed to Surge. He has continued to impress me with the quality of his work, his ability to take the initiative, without being prompted, and to provide suggestions for improvements and ongoing enhancements. When presented with a problem, he is able to assess the problem, research different options, assess the pros and cons of these various options, test out multiple implementations, and provide a solution, quickly and efficiently. He is an innovator and entrepreneur with a great future ahead of him. He has proven himself to be a dependable employee and a hard worker with solid problem solving and technical skills. Juby not only met deadlines but also explained his approach and solutions clearly in a way that non-experts can understand. Juby takes his work very seriously and is an incredible learner, continually learning new languages, tools and methodologies to stay abreast of the newest developments in his area of expertise. However, while Juby is a fast learner, he is also very careful and cautious about his work. He repeatedly runs checks before making his work public to ensure there are not any issues at implementation. I am confident that he can meet any challenge you place before him, and you will be pleased with his work should you choose to hire him. Please feel free to contact me if you have questions or want to discuss Juby's qualifications and experience further. I can be reached at (519)-694-5715 or via email at dr.m.weyers@bcinnovationlabs.com."
     
     # slider item loop
     - name : "Lina Manuel-Majzoub"
