@@ -40,6 +40,8 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY CV"
+    labelref : "DOWNLOAD MY REFERENCES"
+    linkref : "References.pdf"
     link : "Resume.pdf" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
