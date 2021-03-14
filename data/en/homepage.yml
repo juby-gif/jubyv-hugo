@@ -35,7 +35,7 @@ about:
   enable : true
   image : "images/juby.png"
   title : "ABOUT ME"
-  content : "My name is Juby Varughese and I am a Professional Web Developer. I love to code and coding is my passion.  I am aware of the current tech trends and will make every effort to be at the cutting edge of technology. My clients will receive quality services."
+  content : "My name is Juby, and I am a Professional Web Developer. I have a Diploma in Software Development and Technology Entrepreneurship and a Bachelors in Electrical and Electronics Engineering. My main tech stack consists of TypeScript, React.js, Golang, Python, Django rest framework, and SQL databases(PostgreSQL, MySQL). I'm passionate about coding and developing web applications. My main career goal is to work in a Software Industry, where I can apply my knowledge and develop it further with the support of talented coworkers. I also aspire to become a leader in the future. One interesting thing about myself is that I dig deep into fine details and deliver high-quality, scalable, and efficient digital solutions to my clients."
   # button
   button:
     enable : true
