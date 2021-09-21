@@ -56,10 +56,15 @@ experience:
       content : "I work with HTML, CSS, and JavaScript and create scalable web platform leveraging React framework. Along with that i did Quality Assurance to deliver a bug-free product."
       
     # experience item loop
-    - name : "WordPress Administrator"
+    - name : "Software Developer"
       company : "BCI Innovation Labs"
       duration : "2020"
       content : "I did WordPress Development and custom integrations with variety of plugins like MyCurator, MailChimp, Google Analytics, etc. I have been administering the Websites and initializing backups. I've implemented SSH on the server for securely transferring files."
+     
+     # experience item loop
+    - name : "Freelancer"
+      duration : "2019-2021"
+      content : "I worked as a freelancer and had developed multiple projects for the local companies in Canada."
      
 
 ############################### Skill #################################
@@ -118,10 +123,10 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "Need a Freelancer?"
   button:
     enable : true
-    label : "Let's be Connected!"
+    label : "Let's Connect!"
     link : "#contact"
 
 
@@ -232,4 +237,4 @@ funfacts:
 ############################## contact ###########################
 contact:
   enable : true
-  title : "Let's be Connected!"
+  title : "Let's Connect!"
