@@ -4,15 +4,16 @@ hero:
 
   # animated text loop
   occupations:
-    - "Front-End Developer"
+    - "Front-End Engineer"
     - "Quality Assurance Engineer"
     - "Full Stack Developer"
-    - "WordPress Designer"
+    - "WordPress Developer"
+    - "UI/UX Engineer"
+    - "Software Development Engineer"
 
   # slider background image loop
   slider_image:
     - "images/slider/slider-1.jpg"
-    - "images/slider/slider-2.jpg"
     - "images/slider/slider-3.jpg"
 
   # button
@@ -35,7 +36,7 @@ about:
   enable : true
   image : "images/juby.png"
   title : "ABOUT ME"
-  content : "My name is Juby, and I am a Professional Web Developer. I have a Diploma in Software Development and Technology Entrepreneurship and a Bachelors in Electrical and Electronics Engineering. My main tech stack consists of TypeScript, React.js, Golang, Python, Django rest framework, and SQL databases(PostgreSQL, MySQL). I'm passionate about coding and developing web applications. My main career goal is to work in a Software Industry, where I can apply my knowledge and develop it further with the support of talented coworkers. I also aspire to become a leader in the future. One interesting thing about myself is that I dig deep into fine details and deliver high-quality, scalable, and efficient digital solutions to my clients."
+  content : "Developing web apps and coding are my passions. Ultimately, I wish to work in the software industry, so I can use what I know and develop it further alongside talented colleagues. I also aspire to become a leader in the future. As a professional, I take great care in delivering high-quality, scalable, secure, and efficient digital solutions to my clients."
   # button
   button:
     enable : true
@@ -50,43 +51,114 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
+    - name : "Software Developer"
+      company : "BCI Innovation Labs"
+      duration : "2020 - CURRENT"
+      content : "Improved metrics across all platforms by developing, monitoring, and optimizing multiple WordPress sites with custom integrations. I had also researched, analyzed, and synthesized technical information in order to design, develop, and test computer systems."
+     
+    # experience item loop
     - name : "Junior Developer"
       company : "Mika Software Corporation"
       duration : "2020-2021"
-      content : "I work with HTML, CSS, and JavaScript and create scalable web platform leveraging React framework. Along with that i did Quality Assurance to deliver a bug-free product."
-      
+      content : "Assisted senior frontend developers and backend developers with several tasks. Also, developed React.js powered Frontend platforms from pure HTML and CSS. Moreover, conducted timely, efficient, and error-free quality assurance inspections of Frontend and Backend applications."
+    
     # experience item loop
-    - name : "Software Developer"
-      company : "BCI Innovation Labs"
-      duration : "2020"
-      content : "I did WordPress Development and custom integrations with variety of plugins like MyCurator, MailChimp, Google Analytics, etc. I have been administering the Websites and initializing backups. I've implemented SSH on the server for securely transferring files."
-     
-     # experience item loop
     - name : "Freelancer"
-      duration : "2019-2021"
-      content : "I worked as a freelancer and had developed multiple projects for the local companies in Canada."
+      duration : "2019 - CURRENT"
+      content : "Resolved numerous problems for clients across Canada and the UK, including small and medium businesses. With my extensive knowledge of technologies, I am always on the cutting edge and will incorporate them into my work to provide comprehensive solutions to complex scenarios."
      
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "SKILLS"
   skill_list:
     # skill item loop
-    - name : "Front-End Development"
-      percentage : "98%"
+    - image : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"
       
     # skill item loop
-    - name : "Full Stack Development"
-      percentage : "80%"
+    - image : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"
           
     # skill item loop
-    - name : "Wordpress"
-      percentage : "75%"
+    - image : "https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png"
     
     # skill item loop
-    - name : "Quality Assurance"
-      percentage : "85%"
+    - image : "https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
+    
+    # skill item loop
+    - image : "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"
+
+    # skill item loop
+    - image : "https://icons-for-free.com/download-icon-super+tiny+icons+python-1324450764865983278_512.png"
+
+    # skill item loop
+    - image : "https://cdn-icons-png.flaticon.com/512/5968/5968332.png"
+
+    # skill item loop
+    - image : "https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" 
+
+    # skill item loop
+    - image : "https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png"
+
+    # skill item loop
+    - image : "https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"
+
+    # skill item loop
+    - image : "https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
+
+    # skill item loop
+    - image : "https://cdn-icons-png.flaticon.com/512/174/174881.png"
+
+    # skill item loop
+    - image : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+
+  # skill item loop
+    - image : "https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png?w=640"
+
+  # skill item loop
+    - image : "https://pngpress.com/wp-content/uploads/2020/09/uploads_mysql_mysql_PNG1.png"
+
+  # skill item loop
+    - image : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png"
+      
+  # skill item loop
+    - image : "https://lesscss.org/public/img/less_logo.png"
+  
+  # skill item loop
+    - image : "https://www.junsoo-with.me/wp-content/uploads/2021/07/sass-logo.jpeg"
+      
+  # skill item loop
+    - image : "https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png"
+      
+  # skill item loop
+    - image : "https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"
+      
+  # skill item loop
+    - image : "https://www.pngfind.com/pngs/m/180-1801257_icon-google-analytics-png-transparent-png.png"
+      
+  # skill item loop
+    - image : "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
+      
+  # skill item loop
+    - image : "https://iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico"
+      
+  # skill item loop
+    - image : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DigitalOcean_icon.svg/2048px-DigitalOcean_icon.svg.png"
+  
+   # skill item loop
+    - image : "http://plugins.miniorange.com/wp-content/uploads/2021/06/REST-API-icon.jpg"
+      
+  # skill item loop
+    - image : "https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"
+      
+  # skill item loop
+    - image : "https://pbs.twimg.com/profile_images/1293252199653371904/NUBlg7jw_400x400.jpg"
+
+  # skill item loop
+    - image : "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
+
+  # skill item loop
+    - image : "https://www.cybercon.com/wp-content/uploads/2022/03/docker.png"
 
 
 ################################### Service ##############################3
@@ -95,28 +167,36 @@ service:
   title : "SERVICES"
   service_list:
     # service item loop
-    - name : "Front-End Development"
-      image : "images/icons/code-solid.svg"
+    - name : "Web Development"
+      image : "images/icons/web-development.png"
       
     # service item loop
-    - name : "Backend Development"
-      image : "images/icons/graphic-design.png"
+    - name : "UI/UX Design"
+      image : "images/icons/ux-design.png"
       
     # service item loop
-    - name : "Static Site Development"
+    - name : "Quality Assurance"
       image : "images/icons/dbms.png"
-      
-    # service item loop
-    - name : "Software Development"
-      image : "images/icons/software-development.png"
-      
+            
     # service item loop
     - name : "Digital Marketing"
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "WordPress Development"
-      image : "images/icons/mobile-app.png"
+    - name : "Logo Design"
+      image : "images/icons/logo.png"
+
+    # service item loop
+    - name : "DevOps"
+      image : "images/icons/devops.png"
+
+    # service item loop
+    - name : "Wireframing & Prototyping"
+      image : "images/icons/prototype.png"
+
+    # service item loop
+    - name : "Database Administration"
+      image : "images/icons/folder.png"
 
 
 ############################## call to action #########################
@@ -136,47 +216,72 @@ portfolio:
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "Pillshare"
-      image : "images/pillshare.png"
-      date : "Jan 2021"
-      category : "front-end-development"
-    
-    # portfolio item loop
-    - name : "BioDB"
-      image : "images/biodb.png"
-      date : "Apr 2020"
-      category : "Full Stack Development"
-      
-    # portfolio item loop
-    - name : "Enlazaa"
-      image : "images/enlazaa.png"
-      date : "Dec 2020"
-      category : "Static Site Development"
-      
-    # portfolio item loop
     - name : "BCI Labs"
-      image : "images/bci-labs.png"
+      image : "images/portfolio/bci_labs.png"
       date : "Aug 2020"
       category : "WordPress Development"
       
     # portfolio item loop
     - name : "CTA"
-      image : "images/cta.png"
-      date : "July 2020"
-      category : "WordPress Development"
-      
-    # portfolio item loop
-    - name : "IS"
-      image : "images/is.png"
+      image : "images/portfolio/cta.png"
       date : "July 2020"
       category : "WordPress Development"
 
     # portfolio item loop
     - name : "BCI Institute"
-      image : "images/bci-institute.png"
-      date : "Aug 2020"
+      image : "images/portfolio/bci_institute.png"
+      date : "July 2021"
       category : "WordPress Development"
+
+    # portfolio item loop
+    - name : "Travel App"
+      image : "images/portfolio/travel_app.png"
+      date : "July 2022"
+      category : "WordPress Development"
+
+    # portfolio item loop
+    - name : "Any Art"
+      image : "images/portfolio/any_art.png"
+      date : "July 2022"
+      category : "WordPress Development"
+
+    # portfolio item loop
+    - name : "OWL"
+      image : "images/portfolio/owl.png"
+      date : "July 2020"
+      category : "WordPress Development"
+
+    # portfolio item loop
+    - name : "iHealth"
+      image : "images/portfolio/ihealth.png"
+      date : "July 2022"
+      category : "WordPress Development"
+
+    # portfolio item loop
+    - name : "Biometrics Cloud"
+      image : "images/portfolio/biometricscloud.png"
+      date : "July 2022"
+      category : "Frontend Development"
+
+    # portfolio item loop
+    - name : "Pillshare"
+      image : "images/portfolio/pillshare.png"
+      date : "Jan 2021"
+      category : "front-end-development"
+    
+    # portfolio item loop
+    - name : "BioDB"
+      image : "images/portfolio/biodb.png"
+      date : "Apr 2020"
+      category : "Full Stack Development"
       
+    # portfolio item loop
+    - name : "Enlazaa"
+      image : "images/portfolio/enlazaa.png"
+      date : "Dec 2020"
+      category : "Static Site Development"
+      
+            
       
 ################################# Testimonial #########################33
 testimonial:

@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://juby-gif.github.io"
+baseURL = "https://jubyvs.com"
 title = "Juby Varughese - Professional Web Developer"
 theme = "somrat"
 # disable language
